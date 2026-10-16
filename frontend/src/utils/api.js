@@ -1,4 +1,4 @@
-const API_BASE = '';
+const API_BASE = 'https://mini-project-0wvr.onrender.com';
 
 /**
  * Checks backend health and config status
